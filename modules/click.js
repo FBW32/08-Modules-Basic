@@ -6,6 +6,6 @@ function clickImages() {
             alert("All of the yarn is available in our shop!")
         }
     })
- }
- 
- export {clickImages};
+}
+
+export {clickImages};
