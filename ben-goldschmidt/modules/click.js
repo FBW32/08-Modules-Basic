@@ -8,4 +8,8 @@ function clickImages() {
     })
  }
  
- export {clickImages};
+// DEFAULT
+export default clickImages;
+
+// NAMED
+// export {clickImages};

@@ -15,4 +15,8 @@ function scrollWindow() {
     });
 }
 
-export { scrollWindow };
+// DEFAULT
+export default scrollWindow;
+
+// NAMED
+// export { scrollWindow };

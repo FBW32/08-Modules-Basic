@@ -14,4 +14,8 @@ function hoverHeader () {
         }
     })
 }
-export {hoverHeader};
+// DEFAULT
+export default hoverHeader;
+
+// NAMED
+// export {hoverHeader};
